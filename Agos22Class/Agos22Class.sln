@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agos22Class", "Agos22Class.csproj", "{6EEF3A5A-97DE-4C82-BF30-70DAF1AA437B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEF3A5A-97DE-4C82-BF30-70DAF1AA437B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEF3A5A-97DE-4C82-BF30-70DAF1AA437B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEF3A5A-97DE-4C82-BF30-70DAF1AA437B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEF3A5A-97DE-4C82-BF30-70DAF1AA437B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EFAF4FA-B1FD-4AC9-A7BB-E77F32D85A46}
+	EndGlobalSection
+EndGlobal
