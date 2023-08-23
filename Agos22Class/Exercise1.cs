@@ -1,12 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Agos22Class
+﻿namespace Agos22Class
 {
-    internal class Exercise1
+    public class Exercise1
     {
+        public static void ExecuteExercise()
+        {
+
+            double p, r;
+            double pi = 3.1416;
+
+
+            Console.WriteLine("Ingrese el radio del circulo");
+
+            double v = double.Parse(Console.ReadLine());
+            r = v;
+            p = (2 * pi) * r;
+            Console.WriteLine("El perimetro es" + p);
+
+        }
     }
 }
+

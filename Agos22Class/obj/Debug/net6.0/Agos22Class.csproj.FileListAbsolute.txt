@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\bin\Debug\net6.0\Agos22Class.exe
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\bin\Debug\net6.0\Agos22Class.deps.json
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\bin\Debug\net6.0\Agos22Class.runtimeconfig.json
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\bin\Debug\net6.0\Agos22Class.dll
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\bin\Debug\net6.0\Agos22Class.pdb
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.dll
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\refint\Agos22Class.dll
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.pdb
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\Agos22Class.genruntimeconfig.cache
+C:\Users\usuario\source\repos\AlexandraRey04\Ago22Class\Agos22Class\obj\Debug\net6.0\ref\Agos22Class.dll
